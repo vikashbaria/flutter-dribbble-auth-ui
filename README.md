@@ -71,7 +71,7 @@ This project was completed as part of:
 
 ## 👨‍💻 Developer
 
-**Vikash Baria**
+[Vikash Baria](https://www.upwork.com/freelancers/vikashharjeewan)
 
 ---
 

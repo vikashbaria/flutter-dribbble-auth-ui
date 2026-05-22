@@ -51,14 +51,9 @@ Through this assignment, I improved my understanding of:
 
 ## 📸 Screenshots
 
-### 🔐 Login Screen
-![Login Screen](assets/screenshots/login.png)
-
-### 📝 Signup Screen
-![Signup Screen](assets/screenshots/signup.png)
-
-### 🔑 Code Verification Screen
-![Code Verification](assets/screenshots/verification.png)
+| 🔐 Login | 📝 Signup | 🔑 Verification |
+|----------|-----------|----------------|
+| ![Login](assets/screenshots/login.png) | ![Signup](assets/screenshots/signup.png) | ![Verification](assets/screenshots/verification.png) |
 
 ---
 

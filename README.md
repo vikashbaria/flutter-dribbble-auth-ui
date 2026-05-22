@@ -53,7 +53,7 @@ Through this assignment, I improved my understanding of:
 
 | 🔐 Login | 📝 Signup | 🔑 Verification |
 |----------|-----------|----------------|
-| ![Login](assets/screenshots/login.png) | ![Signup](assets/screenshots/signup.png) | ![Verification](assets/screenshots/verification.png) |
+| <img src="assets/screenshots/login.png" width="250"/> | <img src="assets/screenshots/signup.png" width="250"/> | <img src="assets/screenshots/verification.png" width="250"/> |
 
 ---
 

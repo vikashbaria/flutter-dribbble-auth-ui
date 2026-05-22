@@ -5,7 +5,12 @@ This project is a Flutter implementation of a **Dribbble-inspired UI design**, c
 The goal of this task was to convert a modern UI design into a fully functional Flutter layout using clean architecture and reusable components.
 
 ---
+## 🎨 Original Design Reference
 
+👉 [View Dribbble Design](https://cdn.dribbble.com/userupload/47405816/file/243349a7718242b3afc4521a23375053.png?resize=1504x1128&vertical=center)
+
+This is the original design that was converted into Flutter using reusable widgets and clean architecture.
+---
 ## 📌 Project Overview
 
 This project includes three main screens:
@@ -55,16 +60,6 @@ Through this assignment, I improved my understanding of:
 |----------|-----------|----------------|
 | <img src="assets/screenshots/login.png" width="250"/> | <img src="assets/screenshots/signup.png" width="250"/> | <img src="assets/screenshots/verification.png" width="250"/> |
 
----
-
-## 📁 Folder Structure (Optional)
-lib/
-┣ widgets/
-┣ screens/
-┣ main.dart
-
-
----
 
 ## 🎯 Task Information
 
